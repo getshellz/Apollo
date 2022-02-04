@@ -7,7 +7,7 @@ import donut
 import shutil
 
 class Apollo(PayloadType):
-    name = "apollo"
+    name = "apollo2"
     file_extension = "exe"
     author = "@djhohnstein"
     mythic_encrypts = True
